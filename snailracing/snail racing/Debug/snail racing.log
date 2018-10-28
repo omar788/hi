@@ -1,0 +1,16 @@
+﻿  snail racing.c
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\omar\desktop\hi\snail racing\snail racing\snail racing.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  snail racing.vcxproj -> C:\Users\omar\Desktop\hi\snail racing\Debug\snail racing.exe
